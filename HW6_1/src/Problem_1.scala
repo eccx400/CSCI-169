@@ -4,8 +4,9 @@ object Problem_1
   {
     def combine(f:Int => Int, x:Int, g:Int => Int) :Int
     {
-      if(x==1) square(1) else square(x)+sum_square(x-1)
+      
     }
+    
     def add(x:Int, y:Int) :Int = x+y
     def square(x:Int):Int = x*x
 
