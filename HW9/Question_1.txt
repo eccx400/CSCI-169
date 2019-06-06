@@ -1,0 +1,7 @@
+Eric Cheng
+CSCI 169 Programming Languages
+Dr. Linnell
+4 June, 2019
+Problem 1
+
+The blog article focuses on the importance and utilization of functional programming in today’s society. Jonathon, the writer of the article, notes that there has been a renaissance in recent times due to its use in distribution systems. Functional Programming languages are mainly used when the system’s performance and integrity are essential. For many new programmers, functional programming is not easy to learn, but breaking down chunks of code for analysis makes it easier. The most important points in functional programming are that the programs must be immutable and stateless; these objectives can be met using recursion. Using functional programming, repeatable actions can be abstracted into a function by following the rules: All functions must have arguments and return data or another functions without using loops.
